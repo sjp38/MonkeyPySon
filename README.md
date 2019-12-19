@@ -9,13 +9,6 @@ MonkeyPySon
 
 MonkeyPySon is a program that makes you enable to control android devices using mouse and keyboard on one desktop.
 
-License
--------
-GPL v3.
-Anybody can use code of MonkeyPySon. But, should follow GPL v3 limitation.
-For more information, see next URL's document.
-http://www.gnu.org/licenses/gpl-3.0-standalone.html
-
 How to install
 --------------
 1. Install Android SDK tools, Java runtime, set system environment to point Android SDK tools.
